@@ -1,0 +1,10 @@
+C:\Users\allan\source\repos\Lista_IG_Ex4\Lista_IG_\bin\Debug\Lista_IG_.exe.config
+C:\Users\allan\source\repos\Lista_IG_Ex4\Lista_IG_\bin\Debug\Lista_IG_.exe
+C:\Users\allan\source\repos\Lista_IG_Ex4\Lista_IG_\bin\Debug\Lista_IG_.pdb
+C:\Users\allan\source\repos\Lista_IG_Ex4\Lista_IG_\obj\Debug\Lista_IG_.csproj.AssemblyReference.cache
+C:\Users\allan\source\repos\Lista_IG_Ex4\Lista_IG_\obj\Debug\Lista_IG_.Form1.resources
+C:\Users\allan\source\repos\Lista_IG_Ex4\Lista_IG_\obj\Debug\Lista_IG_.Properties.Resources.resources
+C:\Users\allan\source\repos\Lista_IG_Ex4\Lista_IG_\obj\Debug\Lista_IG_.csproj.GenerateResource.cache
+C:\Users\allan\source\repos\Lista_IG_Ex4\Lista_IG_\obj\Debug\Lista_IG_.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\Lista_IG_Ex4\Lista_IG_\obj\Debug\Lista_IG_.exe
+C:\Users\allan\source\repos\Lista_IG_Ex4\Lista_IG_\obj\Debug\Lista_IG_.pdb
