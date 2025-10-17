@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista_IG_", "Lista_IG_\Lista_IG_.csproj", "{F2C5F68F-5DA2-456C-863B-C5365D7A9463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C5F68F-5DA2-456C-863B-C5365D7A9463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C5F68F-5DA2-456C-863B-C5365D7A9463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C5F68F-5DA2-456C-863B-C5365D7A9463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C5F68F-5DA2-456C-863B-C5365D7A9463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A734DA-B8A6-4AE2-B33C-352DD49E8F6C}
+	EndGlobalSection
+EndGlobal

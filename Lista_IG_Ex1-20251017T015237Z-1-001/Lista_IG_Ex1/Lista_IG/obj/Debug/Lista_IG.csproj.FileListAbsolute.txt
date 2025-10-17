@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\Lista_IG_Ex1\Lista_IG\bin\Debug\Lista_IG.exe.config
+C:\Users\aluno\source\repos\Lista_IG_Ex1\Lista_IG\bin\Debug\Lista_IG.exe
+C:\Users\aluno\source\repos\Lista_IG_Ex1\Lista_IG\bin\Debug\Lista_IG.pdb
+C:\Users\aluno\source\repos\Lista_IG_Ex1\Lista_IG\obj\Debug\Lista_IG.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Lista_IG_Ex1\Lista_IG\obj\Debug\Lista_IG.Form1.resources
+C:\Users\aluno\source\repos\Lista_IG_Ex1\Lista_IG\obj\Debug\Lista_IG.Properties.Resources.resources
+C:\Users\aluno\source\repos\Lista_IG_Ex1\Lista_IG\obj\Debug\Lista_IG.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Lista_IG_Ex1\Lista_IG\obj\Debug\Lista_IG.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Lista_IG_Ex1\Lista_IG\obj\Debug\Lista_IG.exe
+C:\Users\aluno\source\repos\Lista_IG_Ex1\Lista_IG\obj\Debug\Lista_IG.pdb
+C:\Users\aluno\source\repos\Lista_IG_Ex1\Lista_IG\obj\Debug\Lista_IG.exe.config
